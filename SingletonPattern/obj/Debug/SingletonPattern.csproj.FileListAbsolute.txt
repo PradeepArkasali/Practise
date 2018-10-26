@@ -1,1 +1,8 @@
 E:\Practice\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\Pradeep\TUTS\Practise\Practise\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\Pradeep\TUTS\Practise\Practise\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\Pradeep\TUTS\Practise\Practise\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\Pradeep\TUTS\Practise\Practise\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+E:\Pradeep\TUTS\Practise\Practise\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+E:\Pradeep\TUTS\Practise\Practise\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\Pradeep\TUTS\Practise\Practise\SingletonPattern\obj\Debug\SingletonPattern.pdb
