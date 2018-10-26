@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{A51AF5BD-477A-423A-9D4E-1F997AE0430E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{C2E80698-0B86-462B-B5B3-AEBD40A7FB08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{8AEC0D8A-3D85-49C5-9292-FC109AEB85C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{48054C83-62C1-4508-B309-DF61A7666726}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{BB25D5FF-81F3-4561-B8F1-A323ED5399A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AEC0D8A-3D85-49C5-9292-FC109AEB85C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEC0D8A-3D85-49C5-9292-FC109AEB85C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEC0D8A-3D85-49C5-9292-FC109AEB85C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEC0D8A-3D85-49C5-9292-FC109AEB85C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2E80698-0B86-462B-B5B3-AEBD40A7FB08} = {A51AF5BD-477A-423A-9D4E-1F997AE0430E}
+		{8AEC0D8A-3D85-49C5-9292-FC109AEB85C2} = {C2E80698-0B86-462B-B5B3-AEBD40A7FB08}
+		{48054C83-62C1-4508-B309-DF61A7666726} = {A51AF5BD-477A-423A-9D4E-1F997AE0430E}
+		{BB25D5FF-81F3-4561-B8F1-A323ED5399A5} = {A51AF5BD-477A-423A-9D4E-1F997AE0430E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7E7CBD-E1EE-4F76-B848-9A9EC487694D}
+	EndGlobalSection
+EndGlobal
