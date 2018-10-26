@@ -20,6 +20,7 @@ namespace SingletonPattern
         {
             get
             {
+
                 return instance;
             }
         }
