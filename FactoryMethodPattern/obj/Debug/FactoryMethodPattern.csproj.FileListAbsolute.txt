@@ -1,7 +1,0 @@
-E:\Pradeep\TUTS\Practise\Practise\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
-E:\Pradeep\TUTS\Practise\Practise\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
-E:\Pradeep\TUTS\Practise\Practise\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
-E:\Pradeep\TUTS\Practise\Practise\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojAssemblyReference.cache
-E:\Pradeep\TUTS\Practise\Practise\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
-E:\Pradeep\TUTS\Practise\Practise\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
-E:\Pradeep\TUTS\Practise\Practise\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb

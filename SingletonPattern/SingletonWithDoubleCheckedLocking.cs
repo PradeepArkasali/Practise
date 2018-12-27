@@ -23,7 +23,7 @@ namespace SingletonPattern
         /// </summary>
         public static volatile SingletonWithDoubleCheckedLocking instance;
 
-        private static object lockObject = new Object();
+        private static object lockObject = new object();
 
         private SingletonWithDoubleCheckedLocking() { }
 

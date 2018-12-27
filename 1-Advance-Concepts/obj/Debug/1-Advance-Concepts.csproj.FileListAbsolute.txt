@@ -1,0 +1,7 @@
+E:\Pradeep\TUTS\Practise\Practise\1-Advance-Concepts\bin\Debug\1-Advance-Concepts.exe.config
+E:\Pradeep\TUTS\Practise\Practise\1-Advance-Concepts\bin\Debug\1-Advance-Concepts.exe
+E:\Pradeep\TUTS\Practise\Practise\1-Advance-Concepts\bin\Debug\1-Advance-Concepts.pdb
+E:\Pradeep\TUTS\Practise\Practise\1-Advance-Concepts\obj\Debug\1-Advance-Concepts.csprojAssemblyReference.cache
+E:\Pradeep\TUTS\Practise\Practise\1-Advance-Concepts\obj\Debug\1-Advance-Concepts.csproj.CoreCompileInputs.cache
+E:\Pradeep\TUTS\Practise\Practise\1-Advance-Concepts\obj\Debug\1-Advance-Concepts.exe
+E:\Pradeep\TUTS\Practise\Practise\1-Advance-Concepts\obj\Debug\1-Advance-Concepts.pdb
